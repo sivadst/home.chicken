@@ -1,0 +1,9 @@
+{
+  "description": "An AI controls 100 tools in a simulated kitchen.\nChange the name to home.chicken \n ",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "home.chicken",
+  "majorCapabilities": []
+}
